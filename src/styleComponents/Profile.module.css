@@ -1,0 +1,24 @@
+.main {
+  position: relative;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.myH1 {
+  text-align: center;
+  font-weight: 600;
+}
+.name {
+  color: orange;
+}
+.logout {
+  padding: 10px;
+  border: none;
+  border-radius: 12px;
+  background-color: tomato;
+  color: white;
+  font-weight: 600;
+  font-size: 18px;
+  cursor: pointer;
+}
